@@ -48,7 +48,7 @@ author:
       url:
 home:
   section1: <h1>杨浩的博客</h1>
-  section2: <h2>生物信息码农，在北京。</h2>
+  section2: <h2>生物信息菜鸟，在北京。</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/haoziyeung/" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
